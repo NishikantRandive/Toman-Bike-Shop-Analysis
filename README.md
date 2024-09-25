@@ -3,7 +3,8 @@
 ## Toman Bike Share Dashboard
 ## Problem Statement:
 
-![image](https://github.com/user-attachments/assets/141aa944-5b25-41a6-a12d-c17ea9281f41)
+<img width="865" alt="Problem Sataement" src="https://github.com/user-attachments/assets/7e67e631-5a24-4aa5-8b33-f5f1f2a48ffb">
+
 
 🔹 Toman Bike Share seeks the creation of a dashboard to visualize key performance metrics. This includes hourly revenue analysis, profit and revenue trends, seasonal revenue, and rider demographics to facilitate informed decision-making.
 
