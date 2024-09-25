@@ -32,7 +32,7 @@
 
 🔹 The final step involves using the dashboard to address the specific analysis question. The visualizations and data insights help in making informed decisions and understanding key performance metrics.
 
-Findings from the Dashboard:
+### Findings from the Dashboard:
 🔹 The dashboard reveals a total revenue of $15.19 million and a profit of $10.45 million. The profit margin is 0.45, indicating a healthy profitability rate for Toman Bike Share.
 
 🔹 In 2021, there were 1.24 million riders contributing to a revenue of $4.96 million and a profit of $3.42 million. In 2022, the number of riders increased to 2.05 million, with revenue rising to $10.23 million and profit to $7.03 million.
@@ -52,6 +52,16 @@ Findings from the Dashboard:
 
 🔹 A 15% increase would set the price at approximately $5.74.
 
-🔹 In 2021, there were 1.24 million riders contributing to a revenue of $4.96 million and a profit of $3.42 million. In 2022, the number of riders increased to 2.05 million, with revenue rising to $10.23 million and profit to $7.03 million.
+### Recommended Analysis Questions and Answers:
+💠 What are the peak revenue hours for Toman Bike Share? ✅ The dashboard indicates that peak revenue hours are between 8 AM and 9 AM, with notable spikes in revenue and profit during these times.
 
-🔹 Revenue distribution by season shows the highest earnings in the third season at $4.9 million, followed by the second season at $4.2 million, the fourth season at $3.9 million, and the first season at $2.2 million, highlighting significant seasonal variations in revenue.
+💠 How does revenue and profit trend over the months? ✅ The dashboard shows an upward trend in both revenue and profit from January to August, peaking in July and August, followed by a decline towards the end of the year.
+
+💠 What is the seasonal impact on revenue? ✅ The third season generates the highest revenue at $4.9 million, followed by the second season at $4.2 million. The first season has the lowest revenue at $2.2 million, indicating significant seasonal variations.
+
+💠 What is the distribution of riders by rider types? ✅ The dashboard reveals that 81.17% of riders fall into one category (3 million riders), while the remaining 18.83% are in another category (1 million riders), highlighting the predominant rider type.
+
+💠 What is the year-over-year growth in revenue and profit? ✅ Comparing 2021 and 2022, revenue grew from $4.96 million to $10.23 million, and profit increased from $3.42 million to $7.03 million, demonstrating substantial growth in both metrics year-over-year.
+
+#### Skills:
+SQL, Optimized Query, Excel, Power BI , Power Query, DAX, Report Building
